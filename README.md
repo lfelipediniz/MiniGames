@@ -6,7 +6,7 @@
 
 
 
-## ``Mini Games made by @lfelipediniz using the open source Godot engine``
+## ``Mini Games made by @lfelipediniz using the Godot engine``
 
 </center>
 <br/>
