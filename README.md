@@ -6,7 +6,7 @@
 
 
 
-## ``Mini Games made by @lfelipediniz using the GodotEngine 🤖``
+## ``Mini Games made by @lfelipediniz using the GodotEngine``
 
 </center>
 <br/>
